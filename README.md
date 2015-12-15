@@ -1,6 +1,6 @@
 #CornerTextView
 
-CornerTextView,LabelView,斜TextView.
+CornerTextView,LabelView,TiltTextView,倾斜TextView.
 
 ![](graphices/layout-2015-10-30-211005.png)
 
