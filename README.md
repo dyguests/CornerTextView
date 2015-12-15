@@ -4,6 +4,8 @@ CornerTextView,LabelView,TiltTextView,倾斜TextView.
 
 ![](graphices/layout-2015-10-30-211005.png)
 
+I did not do adaptation.for reference only.我没做完适配,可能会有别的问题.仅供参考.
+
 #Import to your Project.
 
 1.Copy CornerTextView.java to your project's package.
