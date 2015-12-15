@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="CornerTextView">
+        <attr name="gravity" format="enum">
+            <enum name="topRight" value="0"/>
+            <enum name="topLeft" value="1"/>
+        </attr>
+        <attr name="distance" format="dimension"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="beltColor" format="color"/>
+    </declare-styleable>
+</resources>
