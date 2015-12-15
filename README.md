@@ -14,7 +14,7 @@ I did not do adaptation.for reference only.我没做完适配,可能会有别的
 
 #Useage
 
-```java
+```xml
 
     <com.fanhl.cornertextview.CornerTextView
         android:layout_width="wrap_content"
