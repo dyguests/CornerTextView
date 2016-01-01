@@ -1,4 +1,6 @@
-#CornerTextView
+#CornerTextView(Deprecated)
+
+##Do not use this.use [linger1216/labelview](https://github.com/linger1216/labelview).
 
 CornerTextView,LabelView,TiltTextView,倾斜TextView.
 
