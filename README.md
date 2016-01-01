@@ -1,4 +1,4 @@
-#CornerTextView(Deprecated)
+#~~CornerTextView(Deprecated)~~
 
 ##Do not use this.use [linger1216/labelview](https://github.com/linger1216/labelview).
 
